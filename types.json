@@ -359,7 +359,7 @@
             "*.emz"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Archive",
         "Tika": true
     },
     "application/h224": {
@@ -653,7 +653,7 @@
             "*.mbox"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Email Archive",
         "Tika": true
     },
     "application/media_control+xml": {
@@ -732,13 +732,13 @@
             "*.dot"
         ],
         "Group": "Application",
-        "Human Readable Name": "Word",
+        "Human Readable Name": "Word Document",
         "Tika": true
     },
     "application/msword2": {
         "Extensions": [],
         "Group": "Application",
-        "Human Readable Name": "Word",
+        "Human Readable Name": "Word Document",
         "Tika": true
     },
     "application/msword5": {
@@ -3519,7 +3519,7 @@
             "*.xld"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Excel",
         "Tika": true
     },
     "application/vnd.ms-excel.addin.macroenabled.12": {
@@ -3621,7 +3621,7 @@
             "*.msg"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Email",
         "Tika": true
     },
     "application/vnd.ms-outlook-pst": {
@@ -3630,7 +3630,7 @@
             "*.ost"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Email Archive",
         "Tika": true
     },
     "application/vnd.ms-pki.seccat": {
@@ -3664,7 +3664,7 @@
             "*.ppa"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "PowerPoint",
         "Tika": true
     },
     "application/vnd.ms-powerpoint.addin.macroenabled.12": {
@@ -3680,7 +3680,7 @@
             "*.pptm"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "PowerPoint",
         "Tika": true
     },
     "application/vnd.ms-powerpoint.slide.macroenabled.12": {
@@ -3805,7 +3805,7 @@
             "*.docm"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Word Document",
         "Tika": true
     },
     "application/vnd.ms-word.template.macroenabled.12": {
@@ -3813,7 +3813,7 @@
             "*.dotm"
         ],
         "Group": "Application",
-        "Human Readable Name": "Application",
+        "Human Readable Name": "Word Document",
         "Tika": true
     },
     "application/vnd.ms-word2006ml": {
@@ -4488,7 +4488,7 @@
             "*.docx"
         ],
         "Group": "Application",
-        "Human Readable Name": "Word",
+        "Human Readable Name": "Word Document",
         "Tika": true
     },
     "application/vnd.openxmlformats-officedocument.wordprocessingml.template": {
@@ -9618,7 +9618,7 @@
             "*.csv"
         ],
         "Group": "Text",
-        "Human Readable Name": "Text",
+        "Human Readable Name": "CSV",
         "Tika": true
     },
     "text/directory": {

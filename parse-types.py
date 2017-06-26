@@ -21,6 +21,7 @@ READABLE_MAPPINGS = {
 
     # Email containers
     'application/vnd.ms-outlook-pst': EMAIL_CONTAINER,
+    'application/mbox': EMAIL_CONTAINER,
 
     # Emails
     'message/x-emlx': EMAIL,
